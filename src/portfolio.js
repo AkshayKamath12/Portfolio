@@ -13,7 +13,7 @@ const seo = {
   og: {
     title: "Akshay Kamath Portfolio",
     type: "website",
-    url: "http://ashutoshhathidara.com/",
+    url: "http://akshaykamath.vercel.app/",
   },
 };
 
@@ -307,7 +307,7 @@ const experience = {
   subtitle: "Work, Internships, and Volunteering",
   description:
     "I have worked with startups, non-profits, marketing agencies, and school organizations. The majority of my roles have involved software development although my on-campus job has been more related to data management.",
-  header_image_path: "experience.svg",
+  header_image_path: "Akshay3.jpg",
   sections: [
     {
       title: "Work",
