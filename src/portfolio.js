@@ -200,14 +200,6 @@ const skills = {
           },
         },
         {
-          skillName: "Scikit-Learn",
-          fontAwesomeClassname: "devicon:scikitlearn",
-          style: {
-            backgroundColor: "transparent",
-            color: "#3776AB",
-          },
-        },
-        {
           skillName: "Numpy",
           fontAwesomeClassname: "file-icons:numpy",
           style: {
