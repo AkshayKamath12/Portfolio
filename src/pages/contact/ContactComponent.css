@@ -9,6 +9,12 @@
 
 .contact-heading-div {
   display: flex;
+  flex-direction: row;
+}
+
+.img {
+  width: 50%;
+  height: auto;
 }
 
 .blog-heading-div {

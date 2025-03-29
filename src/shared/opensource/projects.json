@@ -2,32 +2,106 @@
   "data": [
     {
       "id": "R_kgDOJWL0-g",
-      "name": "mdp-diffusion",
-      "createdAt": "2023-04-13T04:18:19Z",
-      "url": "https://github.com/ashutosh1919/mdp-diffusion",
-      "description": "Text-guided image editing by manipulating diffusion path without any training.",
+      "name": "UCSC Geolocator",
+      "createdAt": "2025-03-19T04:18:19Z",
+      "url": "https://ucsc-geolocator.vercel.app/",
+      "description": "Full-stack machine learning application that accurately predicts coordinates for UCSC campus photos.",
       "isFork": false,
       "languages": [
+        {
+          "name": "React",
+          "iconifyClass": "uil:react"
+        },
         {
           "name": "Python",
           "iconifyClass": "logos-python"
         },
         {
-          "name": "Shell",
-          "iconifyClass": "simple-icons:shell"
+          "name": "TensorFlow",
+          "iconifyClass": "devicon:tensorflow"
         },
         {
-          "name": "Jupyter Notebook",
-          "iconifyClass": "logos-jupyter"
+          "name": "Redis",
+          "iconifyClass": "devicon:redis"
+        },
+        {
+          "name": "AWS",
+          "iconifyClass": "logos:aws"
         }
       ]
     },
     {
       "id": "R_kgDOG_vYHA",
-      "name": "explainable-cnn",
-      "createdAt": "2022-03-13T20:41:33Z",
-      "url": "https://github.com/ashutosh1919/explainable-cnn",
-      "description": "📦 PyTorch based visualization package for generating layer-wise explanations for CNNs.",
+      "name": "RentMatch",
+      "createdAt": "2025-01-13T20:41:33Z",
+      "url": "https://github.com/AkshayKamath12/Rental-Matchmaker",
+      "description": "Full-stack web-application that connects aspiring renters based on location and shared values.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "React",
+          "iconifyClass": "uil:react"
+        },
+        {
+          "name": "Python",
+          "iconifyClass": "logos-python"
+        },
+        {
+          "name": "Supabase",
+          "iconifyClass": "logos:supabase-icon"
+        },
+        {
+          "name": "Clerk",
+          "iconifyClass": "simple-icons:clerk"
+        }
+      ]
+    },
+    {
+      "id": "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzQ=",
+      "name": "Your Future Is Our Business",
+      "createdAt": "2025-03-01T16:26:54Z",
+      "url": "https://github.com/AkshayKamath12/HTTP_Server",
+      "description": "Full-stack web-application built for the YFIOB nonprofit. Helps students identify careers, opportunities, and mentors.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "React",
+          "iconifyClass": "uil:react"
+        },
+        {
+          "name": "Python",
+          "iconifyClass": "logos-python"
+        },
+        {
+          "name": "Supabase",
+          "iconifyClass": "logos:supabase-icon"
+        },
+        {
+          "name": "Clerk",
+          "iconifyClass": "simple-icons:clerk"
+        }
+      ]
+    },
+    {
+      "id": "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzQ=",
+      "name": "HTTP Multithreaded Server",
+      "createdAt": "2025-01-10T16:26:54Z",
+      "url": "https://github.com/AkshayKamath12/HTTP_Server",
+      "description": "Multithreaded file management server that optimally handles concurrent GET/PUT requests.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "C",
+          "iconifyClass": "devicon:c"
+        }
+      ]
+    },
+    {
+      "id": "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzQ=",
+      "name": "C++ Compiler",
+      "createdAt": "2024-06-03T16:26:54Z",
+      "url": "https://github.com/AkshayKamath12/Compiler",
+      "description": "Compiler that translates a subset of C++ to a custom low-level intermediate representation.",
       "isFork": false,
       "languages": [
         {
@@ -38,85 +112,15 @@
     },
     {
       "id": "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzQ=",
-      "name": "masterPortfolio",
-      "createdAt": "2020-03-06T16:26:54Z",
-      "url": "https://github.com/ashutosh1919/masterPortfolio",
-      "description": "🔥 The Complete Customizable Software Developer Portfolio Template which lets you showcase your work and provides each and every detail about you as Software Developer.",
-      "isFork": false,
-      "languages": [
-        {
-          "name": "HTML",
-          "iconifyClass": "logos-html-5"
-        },
-        {
-          "name": "CSS",
-          "iconifyClass": "logos-css-3"
-        },
-        {
-          "name": "JavaScript",
-          "iconifyClass": "logos-javascript"
-        },
-        {
-          "name": "Dockerfile",
-          "iconifyClass": "simple-icons:docker"
-        }
-      ]
-    },
-    {
-      "id": "R_kgDOG0_8uQ",
-      "name": "react-awesome-shapes",
-      "createdAt": "2022-02-11T14:50:20Z",
-      "url": "https://github.com/ashutosh1919/react-awesome-shapes",
-      "description": "🌀 Insert Awesome Shapes into Your React Site with Ease.",
-      "isFork": false,
-      "languages": [
-        {
-          "name": "HTML",
-          "iconifyClass": "logos-html-5"
-        },
-        {
-          "name": "CSS",
-          "iconifyClass": "logos-css-3"
-        },
-        {
-          "name": "Shell",
-          "iconifyClass": "simple-icons:shell"
-        },
-        {
-          "name": "JavaScript",
-          "iconifyClass": "logos-javascript"
-        }
-      ]
-    },
-    {
-      "id": "R_kgDOGcPKSQ",
-      "name": "neuro-symbolic-sudoku-solver",
-      "createdAt": "2021-11-26T17:56:07Z",
-      "url": "https://github.com/ashutosh1919/neuro-symbolic-sudoku-solver",
-      "description": "⚙️ Solving sudoku using Deep Reinforcement learning in combination with powerful symbolic representations.",
+      "name": "Stock Viewer",
+      "createdAt": "2023-08-15T16:26:54Z",
+      "url": "https://github.com/AkshayKamath12/Web-Scraper-for-Stocks",
+      "description": "Python script that accesses the stock information in real time for ones that interested me.",
       "isFork": false,
       "languages": [
         {
           "name": "Python",
           "iconifyClass": "logos-python"
-        }
-      ]
-    },
-    {
-      "id": "MDEwOlJlcG9zaXRvcnkzMjU5NDM1MTE=",
-      "name": "react-liquidswipe",
-      "createdAt": "2021-01-01T08:31:51Z",
-      "url": "https://github.com/ashutosh1919/react-liquidswipe",
-      "description": "🚀 Smooth Liquid Swipe Animation to transition between different components.",
-      "isFork": false,
-      "languages": [
-        {
-          "name": "JavaScript",
-          "iconifyClass": "logos-javascript"
-        },
-        {
-          "name": "CSS",
-          "iconifyClass": "logos-css-3"
         }
       ]
     }

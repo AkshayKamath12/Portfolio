@@ -51,7 +51,14 @@
 }
 
 .greeting-image-div > * {
+  display: flex;
+  justify-content: center;
+  width: 100%;
   max-width: 100%;
+  height: auto;
+}
+
+.akshay1 {
   height: auto;
 }
 
