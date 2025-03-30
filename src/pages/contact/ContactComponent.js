@@ -27,29 +27,28 @@ class Contact extends Component {
                   alt=""
                   className="img"
                 />
-
-                <div className="contact-heading-text-div">
-                  <h1
-                    className="contact-heading-text"
-                    style={{ color: theme.text }}
-                  >
-                    {ContactData["title"]}
-                  </h1>
-                  <p
-                    className="contact-header-detail-text subTitle"
-                    style={{ color: theme.secondaryText }}
-                  >
-                    {ContactData["description"]}
-                  </p>
-                  <SocialMedia theme={theme} />
-                  <div className="resume-btn-div">
-                    <Button
-                      text="See My Resume"
-                      newTab={true}
-                      href={greeting.resumeLink}
-                      theme={theme}
-                    />
-                  </div>
+              </div>
+              <div className="contact-heading-text-div">
+                <h1
+                  className="contact-heading-text"
+                  style={{ color: theme.text }}
+                >
+                  {ContactData["title"]}
+                </h1>
+                <p
+                  className="contact-header-detail-text subTitle"
+                  style={{ color: theme.secondaryText }}
+                >
+                  {ContactData["description"]}
+                </p>
+                <SocialMedia theme={theme} />
+                <div className="resume-btn-div">
+                  <Button
+                    text="See My Resume"
+                    newTab={true}
+                    href={greeting.resumeLink}
+                    theme={theme}
+                  />
                 </div>
               </div>
             </div>

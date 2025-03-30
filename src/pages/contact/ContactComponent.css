@@ -10,11 +10,12 @@
 .contact-heading-div {
   display: flex;
   flex-direction: row;
+  align-items: center;
   width: 100%;
 }
 
 .img {
-  width: 50%;
+  width: 70%;
   height: auto;
 }
 
