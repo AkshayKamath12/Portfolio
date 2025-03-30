@@ -22,7 +22,7 @@ const greeting = {
   title: "Akshay Kamath",
   logo_name: "Akshay Kamath",
   subTitle:
-    "I am a passionate student striving to be a well-rounded software engineer. Right now, I am finishing my Bachelor's at UCSC and later this year, will start my Master's at UCSD. My interests are in system design, machine learning, and full stack development. Currently, I am learning Spring Boot so that I can build more powerful backend systems.",
+    "I am a passionate student striving to be a well-rounded software engineer. Right now, I am finishing my Bachelor's at UCSC and later this year, will start my Master's at UCSD. My interests are in system design, machine learning, and full-stack development. Currently, I am learning Spring Boot so that I can build more powerful backend systems.",
   resumeLink:
     "https://drive.google.com/file/d/1KZsh1LCEMz5pHHFK3QXqRb3hWnY3h1nx/view?usp=sharing",
   portfolio_repository:
@@ -54,7 +54,7 @@ const socialMediaLinks = [
 const skills = {
   data: [
     {
-      title: "Full Stack Development",
+      title: "Full-Stack Development",
       fileName: "FullStackImg",
       skills: [
         "⚡ Building responsive full-stack web applications using the latest frontend and backend technologies",
@@ -222,7 +222,7 @@ const skills = {
       title: "Dev-ops and Cloud",
       fileName: "CloudInfraImg",
       skills: [
-        "⚡ Developing and maintaining CI/CD pipelines using Github Actions",
+        "⚡ Developing and maintaining CI/CD pipelines using GitHub Actions",
         "⚡ Creating unit tests in the React Testing Library, Jest, and PyTest",
         "⚡ Hosting and maintaining websites on AWS EC2 along with integration of databases",
         "⚡ Deploying deep learning models on cloud to use on mobile devices",
@@ -244,8 +244,47 @@ const skills = {
           },
         },
         {
+          skillName: "Supabase",
+          fontAwesomeClassname: "devicon:supabase",
+          style: {
+            color: "#FFCA28",
+          },
+        },
+        {
           skillName: "Docker",
           fontAwesomeClassname: "simple-icons:docker",
+          style: {
+            color: "#1488C6",
+          },
+        },
+
+        {
+          skillName: "GitHub Actions",
+          fontAwesomeClassname: "devicon-plain:githubactions-wordmark",
+          style: {
+            color: "#1488C6",
+          },
+        },
+
+        {
+          skillName: "Jest",
+          fontAwesomeClassname: "material-icon-theme:jest",
+          style: {
+            color: "#1488C6",
+          },
+        },
+
+        {
+          skillName: "PyTest",
+          fontAwesomeClassname: "devicon:pytest-wordmark",
+          style: {
+            color: "#1488C6",
+          },
+        },
+
+        {
+          skillName: "Postman",
+          fontAwesomeClassname: "vscode-icons:file-type-postman",
           style: {
             color: "#1488C6",
           },
@@ -282,7 +321,7 @@ const degrees = {
       descriptions: [
         "⚡ I have taken courses related to full-stack development, machine learning, system design, data structures and algorithms, and computer systems",
         "⚡ I have been a member of the UCSC Blueprint organization, which builds web-applications for local nonprofits",
-        "⚡ On my own time, I have done research into RAG systems for large language models and compiler design.",
+        "⚡ On my own time, I have done research into RAG systems for large language models and compiler design",
         "⚡ I have also been a data analyst for the UCSC Social Sciences division, where I have worked on developing tools for tracking university room usage",
       ],
     },
@@ -310,7 +349,7 @@ const experience = {
           company: "UCSC Social Sciences",
           company_url: "https://www.tiktok.com/en/",
           logo_path: "UCSC_logo.png",
-          duration: "June 2023 - Present",
+          duration: "September 2023 - Present",
           location: "Santa Cruz, CA, USA",
           description:
             "Migrating university room and key tracking systems to a PostgreSQL database. Developing a web application using Next, Flask, and the PostgreSQL database for vizualizing room usage. Continuing to expand the dataset as staff get moved between buildings.",
@@ -322,7 +361,7 @@ const experience = {
       title: "Internships",
       experiences: [
         {
-          title: "Full Stack Software Engineering Intern",
+          title: "Full-Stack Software Engineering Intern",
           company: "Seam",
           company_url: "",
           logo_path: "seam_logo.jfif",

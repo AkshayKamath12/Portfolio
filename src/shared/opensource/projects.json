@@ -5,7 +5,7 @@
       "name": "UCSC Geolocator",
       "createdAt": "2025-03-19T04:18:19Z",
       "url": "https://ucsc-geolocator.vercel.app/",
-      "description": "Full-stack machine learning application that predicts coordinates for UCSC campus photos.",
+      "description": "Full-stack machine learning application that predicts coordinates for UCSC campus photos",
       "isFork": false,
       "languages": [
         {
@@ -101,7 +101,7 @@
       "name": "C++ Compiler",
       "createdAt": "2024-06-03T16:26:54Z",
       "url": "https://github.com/AkshayKamath12/Compiler",
-      "description": "Compiler that translates C++ to an intermediate representation.",
+      "description": "Compiler that translates C++ to an intermediate representation",
       "isFork": false,
       "languages": [
         {

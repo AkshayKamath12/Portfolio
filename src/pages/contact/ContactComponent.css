@@ -10,6 +10,7 @@
 .contact-heading-div {
   display: flex;
   flex-direction: row;
+  width: 100%;
 }
 
 .img {
@@ -30,18 +31,10 @@
   flex: 1;
 }
 
-.contact-heading-div > * {
-  flex: 1;
-}
-
-.address-heading-div > * {
-  flex: 1;
-}
-
 .contact-heading-img-div {
   display: flex;
   align-items: center;
-  justify-content: center;
+  justify-content: space-evenly;
 }
 
 .blog-heading-img-div {
