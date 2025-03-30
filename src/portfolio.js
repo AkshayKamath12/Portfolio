@@ -274,7 +274,7 @@ const degrees = {
       ],
     },
     {
-      title: "Unversity of California, Santa Cruz",
+      title: "University of California, Santa Cruz",
       subtitle: "BS in Computer Science",
       logo_path: "UCSC_logo.png",
       alt_name: "UCSC",

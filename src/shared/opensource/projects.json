@@ -5,7 +5,7 @@
       "name": "UCSC Geolocator",
       "createdAt": "2025-03-19T04:18:19Z",
       "url": "https://ucsc-geolocator.vercel.app/",
-      "description": "Full-stack machine learning application that accurately predicts coordinates for UCSC campus photos.",
+      "description": "Full-stack machine learning application that predicts coordinates for UCSC campus photos.",
       "isFork": false,
       "languages": [
         {
@@ -35,7 +35,7 @@
       "name": "RentMatch",
       "createdAt": "2025-01-13T20:41:33Z",
       "url": "https://github.com/AkshayKamath12/Rental-Matchmaker",
-      "description": "Full-stack web-application that connects aspiring renters based on location and shared values.",
+      "description": "Full-stack web-application that connects aspiring renters",
       "isFork": false,
       "languages": [
         {
@@ -61,7 +61,7 @@
       "name": "Your Future Is Our Business",
       "createdAt": "2025-03-01T16:26:54Z",
       "url": "https://yfiob-9337d.web.app/",
-      "description": "Full-stack web-application built for the YFIOB nonprofit. Helps students identify careers, opportunities, and mentors.",
+      "description": "Full-stack web-application built for the YFIOB nonprofit",
       "isFork": false,
       "languages": [
         {
@@ -87,7 +87,7 @@
       "name": "HTTP Multithreaded Server",
       "createdAt": "2025-01-10T16:26:54Z",
       "url": "https://github.com/AkshayKamath12/HTTP_Server",
-      "description": "Multithreaded file management server that optimally handles concurrent GET/PUT requests.",
+      "description": "Multithreaded file management server",
       "isFork": false,
       "languages": [
         {
@@ -101,7 +101,7 @@
       "name": "C++ Compiler",
       "createdAt": "2024-06-03T16:26:54Z",
       "url": "https://github.com/AkshayKamath12/Compiler",
-      "description": "Compiler that translates a subset of C++ to a custom low-level intermediate representation.",
+      "description": "Compiler that translates C++ to an intermediate representation.",
       "isFork": false,
       "languages": [
         {
@@ -115,7 +115,7 @@
       "name": "Stock Viewer",
       "createdAt": "2023-08-15T16:26:54Z",
       "url": "https://github.com/AkshayKamath12/Web-Scraper-for-Stocks",
-      "description": "Python script that accesses the stock information in real time for ones that interested me.",
+      "description": "Python script that accesses stock information in real time",
       "isFork": false,
       "languages": [
         {
