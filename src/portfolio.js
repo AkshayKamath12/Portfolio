@@ -369,7 +369,7 @@ const projectsHeader = {
   title: "Projects",
   description:
     "I have built many projects that incorporate industry-relevant technologies. These include full-stack web applications, command line C programs, Google Chrome extensions, and much more.",
-  avatar_image_path: "projects_image.svg",
+  avatar_image_path: "Akshay4.jpg",
 };
 
 const publicationsHeader = {

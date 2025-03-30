@@ -61,13 +61,13 @@
   text-align: center;
 }
 
-.contact-heading-img-div > * {
-  max-width: 100%;
+.contact-heading-img-div {
+  max-width: 80%;
   height: auto;
 }
 
-.blog-heading-img-div > * {
-  max-width: 100%;
+.blog-heading-img-div {
+  max-width: 50%;
   height: auto;
 }
 
