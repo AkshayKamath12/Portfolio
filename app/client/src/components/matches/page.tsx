@@ -11,6 +11,20 @@ export default function MatchesPage({changePage}: props){
 	const { session } = useSession();
     const email = user?.primaryEmailAddress?.emailAddress;
 
+    const [message, setMessage] = useState("Loading")
+
+    useEffect(()=>{
+        fetch("http://localhost:8080/api/matches").then(
+            response => response.json()
+        ).then(
+            data => {
+                console.log(data)
+                setMessage(data.message)
+            }
+        )
+
+    }, [])
+
     return (
             <div className="flex flex-col w-[80%] mx-32 h-screen">
                 <div className="flex">
@@ -24,7 +38,7 @@ export default function MatchesPage({changePage}: props){
                         </header>
                         <Card>
                             <div className="bg-white p-8 h-full w-full flex flex-col items-center">
-                                <header className="text-5xl mb-8"></header>
+                                <header className="text-5xl mb-8">{message}</header>
                                 
                             </div>
 
