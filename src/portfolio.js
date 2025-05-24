@@ -24,9 +24,9 @@ const greeting = {
   subTitle:
     "I am a passionate student striving to be a well-rounded software engineer. Right now, I am finishing my Bachelor's at UCSC and later this year, will start my Master's at UCSD. My interests are in system design, machine learning, and full-stack development. Currently, I am learning Spring Boot so that I can build more powerful backend systems.",
   resumeLink:
-    "https://drive.google.com/file/d/1dwzKmSSyUl609zM29yd6R-Mgww09qxZY/view?usp=drive_link",
+    "https://drive.google.com/file/d/1KnHctJlENTnNYZhRa2f4oKqbxyVptL1h/view?usp=drive_link",
   portfolio_repository:
-    "https://drive.google.com/file/d/1dwzKmSSyUl609zM29yd6R-Mgww09qxZY/view?usp=drive_link",
+    "https://drive.google.com/file/d/1KnHctJlENTnNYZhRa2f4oKqbxyVptL1h/view?usp=drive_link",
   githubProfile: "https://github.com/AkshayKamath12",
 };
 
